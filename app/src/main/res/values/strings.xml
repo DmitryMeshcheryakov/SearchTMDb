@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SearchTMDb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="refresh">Refresh</string>
+
+    <string name="permissions_read_external_storage">Чтение карты памяти</string>
+    <string name="permissions_write_external_storage">Запись карты памяти</string>
+    <string name="empty_list">Empty List!</string>
+    <string name="search_movies">Search</string>
+    <string name="top_rated_movies">Top rated</string>
+    <string name="popular_movies">Popular</string>
+    <string name="now_playing_movies">Now playing</string>
+    <string name="tv">TV</string>
+    <string name="popular_tv">Popular tv</string>
+    <string name="top_rated_tv">Top rated tv</string>
+    <string name="movies">Movies</string>
+    <string name="upcoming_movies">Upcoming movies</string>
+    <string name="tv_show">Tv Show</string>
+</resources>

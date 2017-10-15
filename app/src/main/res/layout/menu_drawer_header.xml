@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:clickable="true">
+    <LinearLayout
+        android:id="@+id/vGlobalMenuHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <by.insight.searchtmdb.custom_view.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SearchTMDb"
+            android:textColor="#2d5d82"
+            android:layout_margin="16dp"
+            android:textSize="24sp"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_gravity="bottom"
+        android:background="@android:color/darker_gray" />
+</FrameLayout>
